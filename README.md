@@ -9,7 +9,7 @@ It demonstrates how to manage global state using **feature-based stores**, selec
 - Zustand (State Management)
 - JavaScript (ES6+)
 
-## 📁 Project Structure
+## Project Structure
 
 src/
 ├─ components/
